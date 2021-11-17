@@ -40,15 +40,6 @@ const Home = () => {
         textAlign="center"
         py="4"
       >
-        <NextImage
-          src="/headerr.jpg"
-          width="389"
-          height="87"
-          alt="avatar bigheads"
-          placeholder="blur"
-          blurDataURL="L5I~of#i004mgjw]-4XA00?wL#xu"
-          priority
-        />
         <Box>
           <Heading as="h1" fontSize="2xl" fontWeight="500" py="20">
             Willkommen auf der Homepage des{" "}
