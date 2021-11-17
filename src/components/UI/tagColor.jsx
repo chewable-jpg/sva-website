@@ -1,6 +1,7 @@
 export const tagColor = {
-  Volleyball: { bgColor: "#0A7B83E2", hover: "#09686dE2" },
+  gewonnen: { bgColor: "#ff7bacE2", hover: "#f7659aE2" },
   verloren: { bgColor: "#ffba08", hover: "#faa307" },
+  Volleyball: { bgColor: "#0A7B83E2", hover: "#09686dE2" },
   Tischtennis: { bgColor: "#05afa0E2", hover: "#0ce5d2E2" },
   Judo: { bgColor: "#E8265EE2", hover: "#ce0840E2" },
   Tanzen: { bgColor: "#1A91DAE2", hover: "#0b7bbcE2" },
