@@ -10,4 +10,5 @@ export const tagColor = {
   Leichtathletik: { bgColor: "#f11df1E2", hover: "#d313d3E2" },
   Turnen: { bgColor: "#f06529", hover: "#e34c26" },
   Corona: { bgColor: "#E8265EE2", hover: "#ce0840E2" },
+  Jugene: { bgColor: "#E8265EE2", hover: "#ce0840E2" },
 }
