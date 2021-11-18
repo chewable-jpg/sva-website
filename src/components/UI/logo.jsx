@@ -1,7 +1,7 @@
 import { chakra } from "@chakra-ui/react"
 import NextLink from "next/link"
 
-import styles from "./styles/logo.css"
+import styles from "./styles/logo.module.css"
 
 const Logo = () => (
   <>
