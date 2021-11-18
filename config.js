@@ -18,7 +18,7 @@ export const data = [
   },
   {
     title: "Andere Aktionen",
-    description: "Über unsere Sportarten hinnaus bieten wir Kindern ab dem ersten Schuljahr regelmäßig verschiedene Aktionen an wie zum Beispiel eine Jährliche Ferienfreizeit"
+    description: "Zusammen mit unsere vielfätigen auswahl an Sportarten bieten wir Kindern ab dem ersten Schuljahr regelmäßig verschiedene Aktionen an wie zum Beispiel eine Jährliche Ferienfreizeit"
   },
   {
     title: "Wo kann man uns finden",
