@@ -57,7 +57,7 @@ const Home = () => {
         alignItems="center"
         flexDir="column"
         textAlign={{ base: "center", lg: "left" }}
-        py="30"
+        py="10"
       >
         {data.map((item, index) => (
           <Box
