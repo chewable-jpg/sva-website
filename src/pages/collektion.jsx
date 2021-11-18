@@ -66,7 +66,7 @@ Dies haben wir zum Anlass genommen, eine neue Vereinskollektion zu erstellen. <b
 
 In Zusammenarbeit mit Sport Freckmann in Nottuln möchten wir euch die neue Vereinskollektion präsentieren, die einen einheitlichen Auftritt ermöglicht und die Zugehörigkeit zur Arminia dokumentiert. <br />
 
-Alle Mitglieder können bis zum 27.06.2018 über Ihren Abteilungsleiter/Trainer ihre Bestellung aufgeben. <br />
+Alle Mitglieder können bis zum 31.13.2021 über Ihren Abteilungsleiter/Trainer ihre Bestellung aufgeben. <br />
 
 Zusammen mit der Bestellung ist auch der Rechnungsbetrag zu entrichten. <br />
 
