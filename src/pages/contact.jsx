@@ -55,7 +55,8 @@ const Home = () => {
         py="30"
       >
         <Text>
-          Haben sie Fragen, Wünsche oder Anregungen? Bitte nehmen Sie Kontakt mit uns auf, wir helfe ihnen gerne weiter. <br />
+          Haben sie Fragen, Wünsche oder Anregungen? <br />
+          Bitte nehmen Sie Kontakt mit uns auf, wir helfe ihnen gerne weiter. <br />
           <br />
           SV Arminia Appelhülsen e.V. Münsterstr. 19 48301 Nottuln <br/>
           Telefon: +49 2509 8778 <br/>
