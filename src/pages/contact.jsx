@@ -58,7 +58,7 @@ const Home = () => {
           SV Arminia Appelhülsen e.V. Münsterstr. 19 48301 Nottuln <br/>
           Telefon: +49 2509 8778 <br/>
           Fax: +49 2509 993325 <br/>
-          E-Mail: info@svarminiaappelhuelsen.de
+          E-Mail: <a href="mailto:info@svarminiaappelhuelsen.de">info@svarminiaappelhuelsen.de</a> 
         </Text>
       </Box>
     </>
