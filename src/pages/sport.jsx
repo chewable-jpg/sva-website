@@ -1,5 +1,6 @@
 import { Box, Button, Heading, Text, useColorModeValue } from "@chakra-ui/react"
 import { NextSeo } from "next-seo"
+import Link from "next/link"
 
 import { seo, data } from "config"
 
