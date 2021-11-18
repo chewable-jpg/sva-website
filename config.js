@@ -1,5 +1,5 @@
 export const seo = {
-  title: "SVA Appelhülsen",
+  title: "SVA",
   description:
     "Sportverein Arminia Appelhülsen",
   canonical: "https://sva.vercel.app/",
