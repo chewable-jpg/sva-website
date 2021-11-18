@@ -55,14 +55,12 @@ const Home = () => {
         py="30"
       >
         <Text>
-        Liebe Arminen, <br />
+        Liebe Arminen, <br /> 
         <br />
 
 in unserem schönen Stadtteil Appelhülsen bedeutet Sport wie selbstverständlich Arminia. <br />
 
-Mit knapp 1000 Mitgliedern nähern wir uns dem 100jährigen Vereinsjubiläums im nächsten Jahr. <br />
-
-Dies haben wir zum Anlass genommen, eine neue Vereinskollektion zu erstellen. <br />
+Mit knapp 1000 Mitgliedern haben wir nach dem 100 jährigen Vereinsjubiläum beschlossen eine neue Vereinskollektion zu erstellen. <br />
 
 In Zusammenarbeit mit Sport Freckmann in Nottuln möchten wir euch die neue Vereinskollektion präsentieren, die einen einheitlichen Auftritt ermöglicht und die Zugehörigkeit zur Arminia dokumentiert. <br />
 
