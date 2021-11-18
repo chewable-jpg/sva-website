@@ -26,7 +26,7 @@ const Home = () => {
               url: `${seo.canonical}bighead.svg`,
               width: "350px",
               height: "350px",
-              alt: "avatar bigheads",
+              alt: "yeah",
             },
           ],
         }}

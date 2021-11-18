@@ -1,10 +1,11 @@
 {
-  "name": "portfolio-boilerplate-nextjs",
+  "name": "sv-arminia-appelhuelsen-homepage",
+  "description": "Homepage des SVA",
   "version": "0.1.0",
   "private": true,
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/imadatyatalah/portfolio-boilerplate-nextjs"
+    "url": "https://github.com/0x2366/sva-website"
   },
   "scripts": {
     "dev": "next dev",
