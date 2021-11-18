@@ -68,7 +68,7 @@ const Navbar = () => {
             py={{ base: "3", lg: "0" }}
           >
             <NextLink href="/imprint">
-              <a onClick={closeMenu}>Ipressum</a>
+              <a onClick={closeMenu}>Impressum</a>
             </NextLink>
           </chakra.li>
 
