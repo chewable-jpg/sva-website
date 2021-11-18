@@ -23,7 +23,7 @@ const Home = () => {
           description,
           images: [
             {
-              url: ``,
+              url: `https://www.svarminiaappelhuelsen.de/s/cc_images/cache_2476551506.jpg`,
               width: "389px",
               height: "87px",
               alt: "Header image",
