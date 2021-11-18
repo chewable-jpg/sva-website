@@ -55,9 +55,7 @@ const Home = () => {
         py="30"
       >
         <Text>
-        <NextLink href="/sport/fussball">
-              <a onClick={closeMenu}>Test</a>
-            </NextLink>
+            Fussball
         </Text>
       </Box>
     </>
