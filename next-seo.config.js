@@ -3,7 +3,7 @@ import { seo } from "config"
 export default {
   openGraph: {
     type: "website",
-    locale: "en_US",
+    locale: "de_GER",
     url: seo.canonical,
     site_name: seo.title,
   },

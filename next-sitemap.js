@@ -1,4 +1,4 @@
 module.exports = {
-  siteUrl: "https://portfolio-boilerplate-nextjs.vercel.app",
+  siteUrl: "https://svs.vercel.app",
   generateRobotsTxt: true,
 }
