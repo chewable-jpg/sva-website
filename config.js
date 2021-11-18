@@ -10,7 +10,6 @@ export const data = [
     title: "Was ist der SVA",
     description:
       "Der SV Arminia Appelhülsen e.V. ist ein Mehrspartensportverein mit über 1000 Mitgliedern und vielen verschiedenen Sportarten.",
-      image: "https://www.svarminiaappelhuelsen.de/s/cc_images/cache_2476551506.jpg"
   },
   {
     title: "Unsere Sportarten",
