@@ -1,12 +1,10 @@
 import { chakra } from "@chakra-ui/react"
 import NextLink from "next/link"
 
-import styles from "./styles/logo.module.css"
-
 const Logo = () => (
   <>
     <NextLink href="/" passHref>
-      <chakra.a classname="logo" fontSize="2rem" fontWeight="700">
+      <chakra.a fontSize="2rem" fontWeight="700" color="#FE1919">
         SVA
       </chakra.a>
     </NextLink>
