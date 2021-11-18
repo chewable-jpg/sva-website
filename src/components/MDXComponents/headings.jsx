@@ -5,7 +5,7 @@ const Headings = (props) => {
 
   return (
     <>
-      <Heading my="0.75em" {...props}>
+      <Heading my="0.45em" {...props}>
         <Box pointerEvents="auto">
           <VisuallyHidden>Read the {children} section.</VisuallyHidden>
           {children}
