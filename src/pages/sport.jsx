@@ -57,7 +57,7 @@ const Home = () => {
       >
         <Text>
         <NextLink href="/sport/fussball">
-              <a onClick={closeMenu}>Sportarten</a>
+              <a>Sportarten</a>
             </NextLink>
         </Text>
       </Box>
