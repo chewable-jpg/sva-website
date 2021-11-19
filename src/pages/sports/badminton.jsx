@@ -8,7 +8,7 @@ const Home = () => {
 
   const isOdd = (num) => num % 2
 
-  const title = `Fussball | ${seo.title}`
+  const title = `Badminton | ${seo.title}`
   const description = seo.description
 
   return (
@@ -41,7 +41,7 @@ const Home = () => {
       >
         <Box>
           <Heading as="h1" fontSize="5xl" fontWeight="500" py="20">
-            Fussball
+            Badminton
           </Heading>
         </Box>
       </Box>
@@ -55,8 +55,19 @@ const Home = () => {
         py="30"
       >
         <Text>
-            Fussball
+            Leitung: Jens Wiegers | Telefon: +49 162 76532162 <br /> <br />
+
         </Text>
+        <Text>
+          Hobby-Training für Erwachsene <br />
+          <br />
+          
+          Badminton wird im SVA als Freizeitsport für Erwachsener (18+) angeboten. <br />
+<br />
+Die Hobbysportler nehmen an keinerlei Turnieren teil. <br />
+Bewegung, Fitness und Spaß stehen hier im Vordergrund. Neue Spieler sind jederzeit willkommen. <br />
+<br />
+Freitags von 19:30 Uhr bis 21.00 Uhr (große Sporthalle).</Text>
       </Box>
     </>
   )
