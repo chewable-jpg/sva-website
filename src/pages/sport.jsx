@@ -31,11 +31,20 @@ export default function Home() {
         }}
       />
 
-      <Box>
-      <Heading as="h1" fontSize="5xl" fontWeight="500" py="20">
-        Sportarten
-      </Heading>
-    </Box>
+<Box
+        as="section"
+        d="flex"
+        alignItems="center"
+        flexDir="column"
+        textAlign="center"
+        py="4"
+      >
+        <Box>
+          <Heading as="h1" fontSize="5xl" fontWeight="500" py="20">
+            Sportarten
+          </Heading>
+        </Box>
+      </Box>
 
 
         <div className={styles.grid}>
