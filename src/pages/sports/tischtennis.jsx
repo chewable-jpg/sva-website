@@ -55,10 +55,11 @@ const Home = () => {
         py="30"
       >
         <Text>
-            Andreas Schabert: Abteilungsleitung | Telefon: 0163 9721784 | E-Mail: <a href="mailto:a.schabert@t-online.de">a.schabert@t-online.de</a> <br />
-            Leif Dasberg: Stellv. Abteilungsleitung | Telefon: 0175 7890836 | E-Mail: <a href="witchblade@freenet.de">witchblade@freenet.de</a> <br />
-            Michael Engbers: Pressewart | Telefon: 0157 39045095 | E-Mail: <a href="m.engbers@gmx.de">m.engbers@gmx.de</a> <br />
-            Mechthild Riegelmeyer: Schulsportbeauftragte | Telefon: 0157 30763715 | E-Mail: <a href="tt-mecki@web.de">tt-mecki@web.de</a> <br />
+            Andreas Schabert: Abteilungsleitung | Telefon: 0163 9721784 | E-Mail: <a href="mailto:a.schabert@t-online.de">a.schabert@t-online.de</a> <br /> <br />
+            Leif Dasberg: Stellv. Abteilungsleitung | Telefon: 0175 7890836 | E-Mail: <a href="witchblade@freenet.de">witchblade@freenet.de</a> <br /> <br />
+            Michael Engbers: Pressewart | Telefon: 0157 39045095 | E-Mail: <a href="m.engbers@gmx.de">m.engbers@gmx.de</a> <br /> <br />
+            Mechthild Riegelmeyer: Schulsportbeauftragte | Telefon: 0157 30763715 | E-Mail: <a href="tt-mecki@web.de">tt-mecki@web.de</a> <br /> <br /> <br />
+            <br />
         </Text>
         <Text>
           Trainingsbetrieb und Meisterschaftsspiele <br />
