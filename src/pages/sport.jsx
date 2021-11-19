@@ -31,6 +31,7 @@ export default function Home() {
         <Link href="/sports/badminton">
           <a className={styles.card}>
             <h2>Badminton &rarr;</h2>
+            <p>Freitags: 19:30-21:00</p>
           </a>
         </Link>
 
@@ -43,6 +44,7 @@ export default function Home() {
         <Link href="/sports/judo">
           <a className={styles.card}>
             <h2>Judo &rarr;</h2>
+            <p>Dienstags: 17:00-18:30</p>
           </a>
         </Link>
 
