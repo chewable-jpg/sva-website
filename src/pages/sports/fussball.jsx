@@ -8,7 +8,7 @@ const Home = () => {
 
   const isOdd = (num) => num % 2
 
-  const title = `Home | ${seo.title}`
+  const title = `Fussball | ${seo.title}`
   const description = seo.description
 
   return (

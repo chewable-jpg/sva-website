@@ -8,7 +8,7 @@ const Home = () => {
 
   const isOdd = (num) => num % 2
 
-  const title = `Home | ${seo.title}`
+  const title = `Turnen | ${seo.title}`
   const description = seo.description
 
   return (
@@ -41,7 +41,7 @@ const Home = () => {
       >
         <Box>
           <Heading as="h1" fontSize="5xl" fontWeight="500" py="20">
-            Fussball
+            Turnen
           </Heading>
         </Box>
       </Box>

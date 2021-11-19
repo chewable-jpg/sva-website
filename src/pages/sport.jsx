@@ -64,7 +64,7 @@ export default function Home() {
 
         <Link href="/sports/tennis">
           <a className={styles.card}>
-            <h2>Badminton &rarr;</h2>
+            <h2>Tennis &rarr;</h2>
           </a>
         </Link>
 
