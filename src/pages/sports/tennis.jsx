@@ -55,7 +55,39 @@ const Home = () => {
         py="30"
       >
         <Text>
-            Tennis
+            Abteilungsleitung: <br />
+            Dirk Appelt (0172/6531173) <br />
+            <br />
+            Dennis Lindmeyer (0179/2408138) <br />
+            <br />
+            E-Mail: <a href="mailto:tennis@appelt.co">tennis@appelt.co</a>
+        </Text>
+        <Text>
+          Willkommen in der Tennisabteilung von Arminia Appelhülsen. <br />
+          <br />
+          Am Sportheim können aktuell ein Ascheplatz, Duschen, Toiletten und Umkleideräume benutzt werden. <br />
+          * 2. Platz wegen Umbaumaßnahmen gesperrt. <br />
+          <br />
+          <br />
+          Trainingszeiten <br />
+          <br />
+          <br />
+          Jeden Dienstag - ab 17:00 Uhr (offener Tennitreff, bitter voher anrufen) <br />
+          <br />
+          Jeden Montag - 18:00 bis ca. 20:00 Uhr (Einzel oder Doppel Männer/Mixed) <br />
+          <br />
+          Jeden Freitag - 10:00 - 11:00 Uhr (Doppe Damen)
+          <br />
+          Aktuelle Vereinstermine bitter per E-Mail oder WhatsApp erfragen. <br />
+          <br />
+          <br />
+          Vermietung Tennisplatz <br />
+          Nichtvereinsmitglieder können in der laufenden Saison den Tennisplatz in der Arminia Appelhülsen Geschäftsstelle oder bei Diek Appelt buchen. <br />
+          <br />
+          Montag - Freitag:     08:00 - 14:00 Uhr   8,00€/Std.
+          Montag - Freitag:     14:00 - 21:00 Uhr   10,00€/Std.
+          Wochendende/Feiertag                      14,00€/Std.
+          
         </Text>
       </Box>
     </>
