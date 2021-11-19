@@ -35,7 +35,6 @@ export default function Home() {
         Sportarten
       </Heading>
     </Box>
-  </Box>
 
 
         <div className={styles.grid}>
