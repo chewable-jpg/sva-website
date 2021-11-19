@@ -55,8 +55,15 @@ const Home = () => {
         py="30"
       >
         <Text>
-            Badminton
+            Leitung: Jens Wiegers | Telefon: +49 162 76532162
         </Text>
+        <h3>Hobby-Training für Erwachsene</h3>
+        <Text>Badminton wird im SVA als Freizeitsport für Erwachsener (18+) angeboten. <br />
+<br />
+Die Hobbysportler nehmen an keinerlei Turnieren teil. <br />
+Bewegung, Fitness und Spaß stehen hier im Vordergrund. Neue Spieler sind jederzeit willkommen. <br />
+<br />
+Freitags von 19:30 Uhr bis 21.00 Uhr (große Sporthalle).</Text>
       </Box>
     </>
   )
