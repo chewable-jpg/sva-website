@@ -65,7 +65,7 @@ const Home = () => {
           Trainingsbetrieb und Meisterschaftsspiele <br />
           <br />
           <br />
-          Seniorentraining (Damen und Herren ab 16 Jahr) <br />
+          Seniorentraining (Damen und Herren ab 16 Jahre) <br />
           <br />
           Montag: 20:00 - 22:00 Uhr <br />
           Mittwoch: 19:30 - 22:00 Uhr <br />
