@@ -64,7 +64,11 @@ const Home = () => {
           Fax: +49 2509 993325 <br/>
           E-Mail: <a href="mailto:info@svarminiaappelhuelsen.de">info@svarminiaappelhuelsen.de</a> <br />
           <br />
-          Die Ansprechpartner für einzelne Sportarten finde sie <br /> <Link href="/sport"> <button><a target="_blank">hier.</a></button> </Link> <br /> <br />
+          Die Ansprechpartner für einzelne Sportarten finde sie <Link href="/sport"><a color="#ff0606" target="_blank">hier.</a></Link> <br />
+          <br />
+          <br />
+          Das <a href="https://www.svarminiaappelhuelsen.de/app/download/5817965009/Anmeldung.pdf">Anmeldeformular</a> für eine mitgliedschaft finden sie hier. <br />
+          <br />
         </Text>
       </Box>
     </>
