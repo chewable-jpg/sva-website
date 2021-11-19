@@ -64,7 +64,7 @@ const Home = () => {
           Fax: +49 2509 993325 <br/>
           E-Mail: <a href="mailto:info@svarminiaappelhuelsen.de">info@svarminiaappelhuelsen.de</a> <br />
           <br />
-          Die Ansprechpartner für einzelne Sportarten finde sie <Link href="/sport"><chakra.a color="#FE1919" classname="svalink" target="_blank">hier.</chakra.a></Link> <br />
+          Die Ansprechpartner für einzelne Sportarten finde sie <Link href="/sport" passHref><chakra.a color="#FE1919" classname="svalink" target="_blank">hier.</chakra.a></Link> <br />
           
           <br />
           <br />
