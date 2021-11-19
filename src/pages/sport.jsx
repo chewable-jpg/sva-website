@@ -44,55 +44,63 @@ export default function Home() {
         <Link href="/sports/judo">
           <a className={styles.card}>
             <h2>Judo &rarr;</h2>
-            <p>Dienstags: 17:00-18:30</p>
+            <p>Dienstag: 17:00-18:30</p>
           </a>
         </Link>
 
         <Link href="/sports/kung-fu">
           <a className={styles.card}>
             <h2>Kung Fu &rarr;</h2>
+            <p>Freitag: 18:00-19:30</p>
           </a>
         </Link>
 
         <Link href="/sports/laufen">
           <a className={styles.card}>
             <h2>Laufen &rarr;</h2>
+            <p>Diestage/Donnerstag: 18:00</p>
           </a>
         </Link>
 
         <Link href="/sports/leichtathletik">
           <a className={styles.card}>
             <h2>Leichtathletik &rarr;</h2>
+            <p>Montag: 17:00-18:00</p>
           </a>
         </Link>
 
         <Link href="/sports/pickelball">
           <a className={styles.card}>
             <h2>Pickelball &rarr;</h2>
+            <p>Dienstag: Abfahrt 16:30</p>
           </a>
         </Link>
 
         <Link href="/sports/tennis">
           <a className={styles.card}>
             <h2>Tennis &rarr;</h2>
+            <p>Dienstag: ab 17:00</p>
           </a>
         </Link>
 
         <Link href="/sports/tischtennis">
           <a className={styles.card}>
             <h2>Tischtennis &rarr;</h2>
+            <p>Freitag: 16:20-17:50</p>
           </a>
         </Link>
 
         <Link href="/sports/turnen">
           <a className={styles.card}>
             <h2>Turnen &rarr;</h2>
+            <p>Dienstag: 16:00-16:45</p>
           </a>
         </Link>
 
         <Link href="/sports/volleyball">
           <a className={styles.card}>
             <h2>Volleyball &rarr;</h2>
+            <p>Mitwoch: 18:00-19:30</p>
           </a>
         </Link>
         </div>
