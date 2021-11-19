@@ -1,6 +1,10 @@
 .container {
     padding: 0 2rem;
   }
+
+  a {
+    color: #ff0606;
+  }
   
   .main {
     min-height: 100vh;
