@@ -58,7 +58,7 @@ export default function Home() {
         <Link href="/sports/laufen">
           <a className={styles.card}>
             <h2>Laufen &rarr;</h2>
-            <p>Diestage/Donnerstag: 18:00</p>
+            <p>Diestag/Donnerstag: 18:00</p>
           </a>
         </Link>
 
