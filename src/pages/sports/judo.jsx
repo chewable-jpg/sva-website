@@ -55,9 +55,9 @@ const Home = () => {
         py="30"
       >
         <Text>
-        Abteilungsleiter: Bastian Haas
+        Abteilungsleiter: Bastian Haas <br />
 
-Telefon: 0152-58932510 | E-Mail: judo-appelhuelsen@web.de
+Telefon: 0152-58932510 | E-Mail: judo-appelhuelsen@web.de <br /><br />
         </Text>
         <Text>
         Judo (柔道/ japanisch) heißt übersetzt „der sanfte Weg“. <br /> <br />
