@@ -55,7 +55,38 @@ const Home = () => {
         py="30"
       >
         <Text>
-            Judo
+        Abteilungsleiter: Bastian Haas
+
+Telefon: 0152-58932510 | E-Mail: judo-appelhuelsen@web.de
+        </Text>
+        <Text>
+        Judo (柔道/ japanisch) heißt übersetzt „der sanfte Weg“. <br /> <br />
+Gelehrt wird wie wir unseren „Gegner“ durch Nachgeben besiegen können. <br />
+Geschicklichkeit und präzise Techniken auf der einen Seite und der höchstmögliche Gebrauch von Körper und Geist auf der anderen Seite unterscheidet die Sportart Judo von anderen Zweikampsportarten. <br />
+
+Verschiedene Gürtelfarben weisen auf den jeweiligen Könnensstand hin. Erfolge im Training und Wettkampf motivieren die Kinder zusätzlich und stärken sie in ihrer Persönlichkeitsentwicklung. <br />
+
+Warum Judo für Kinder? <br />
+Das spielerische Kämpfen, auch als Rangeln und Raufen zu verstehen, ist Bestandteil der kindlichen Entwicklung. <br />
+Das Ausleben des eigenen Bewegungsdranges spielt eine ebenso wichtige Rolle wie das Sammeln von Erfahrungen mit dem eigenen Körper. <br /> <br />
+
+Haben wir Ihr Interesse geweckt? <br />
+Dann laden wir Sie und Ihr Kind (ab dem Grundschulalter) herzlich zu einem Probetraining ein. <br /> <br />
+
+Trainingszeiten: <br />
+Judo für Anfänger und Fortgeschrittene (ab 6 Jahren) <br />
+Dienstags von 17.00 bis 18.30 Uhr in der Turnhalle Appelhülsen. <br /> <br /> <br />
+
+ 
+
+Trainer / Abteilungsleiter  <br />
+Bastian Haas <br />
+Tel.: 0152-58932510 <br /> 
+Mail: judo-appelhuelsen@web.de <br /><br />
+
+
+Wir sind sicher, dass es Ihnen und Ihrem Kind gefallen wird. <br />
+Wir freuen uns auf Euch!
         </Text>
       </Box>
     </>
