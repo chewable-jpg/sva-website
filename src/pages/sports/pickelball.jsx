@@ -55,7 +55,33 @@ const Home = () => {
         py="30"
       >
         <Text>
-            Pickelball
+          Ansprechpartner: Martin Brink | Telefon: +49 157 39086828 <br />
+          <br />
+          Wann? <br />
+          <br />
+          Jeden Samstag von 13:00 Uhr bis 15:00 Uhr <br />
+          <br/>
+          <br/>
+          Wo? <br/>
+          <br/>
+          Turnhalle | Appelhülsen Grunschule, Schulstraße 6/7, 48301 Nottuln <br/>
+          <br/>
+          Jetzt auch Outdoor (bei schönem Wetter bis 30.09.) <br/>
+          <br/>
+          Dienstags: 18:00 Uhr bis 22:00 Uhr <br/>
+          - Abfahrt 17:30 Uhr | vom K+K Appelhülsen nach Hiddingsel <br/>
+          <br/>
+          <br/>
+          Freitags: 17:00 Uhr bis 19:00 Uhr <br/>
+          - Abfahrt 16:30 Uhr | vom K+K Appelhülsen nach Hiddingsel <br/>
+          <br/>
+        </Text>
+        <Text>
+          Was ist Pickelball? <br/>
+          <br/>
+          Pickelball ist eine in den USA enstandene Ballsportart. <br/>
+          Pickelball besitzt Elemente wie Badminton, Tennis und Tischtennis. <br/>
+          Es unterscheidet sich in der Geschwindigkeit des Balles, der Größe des Platzes un dem dynamischen Spielablauf. <br/>
         </Text>
       </Box>
     </>

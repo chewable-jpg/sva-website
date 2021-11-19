@@ -55,7 +55,23 @@ const Home = () => {
         py="30"
       >
         <Text>
-            Lauftreff
+            Leitung: Manfred Feldmann | Telefon: 02509-416 | E-Mail <a href="mailto:manfred.feldmann@t-online.de">manfred.feldmann@t-online.de</a> <br />
+            <br />
+            
+        </Text>
+        <Text>
+          Der offene Lauftreff <br />
+          Ein regelmäßges Angebot für Jedermann/-frau. <br />
+          <br />
+          Der Lauftreff des SV Arminia Appelhülsen findet diesntags und donnerstags jeweils um 18:00 Uhr statt. <br />
+          Treffpunkt ist das Bürgerzentrum. <br />
+          <br />
+          Wer in dern Dunkelheit am Abend nicht alleine laufen mag und bereits 5 km und mehr ohne Pause laufen kann, ist herzlich Willkommen, mit uns in Gemeinschaft run um Appelhülsen zu laufen. <br />
+          Wer mitlaufen möchte, sollte unbedingt reflektierende helle Laufkleidung tragen und möglichst mit einer Lauflampe bzw. kleiner Taschenlampe ausgestattet sein. <br />
+          Das Laufen in der Gruppe in der Dunkelheit ist so entspannter, unterhaltsamer und vor allem sicherer. <br />
+          <br />
+          <br />
+          Neugikeiten werden sie in unseren Blog posts finden.
         </Text>
       </Box>
     </>

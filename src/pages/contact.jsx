@@ -1,5 +1,6 @@
-import { Box, Button, Heading, Text, useColorModeValue } from "@chakra-ui/react"
+import { chakra, Box, Button, Heading, Text, useColorModeValue } from "@chakra-ui/react"
 import { NextSeo } from "next-seo"
+import Link from "next/link"
 
 import { seo, data } from "config"
 
@@ -61,7 +62,14 @@ const Home = () => {
           SV Arminia Appelhülsen e.V. Münsterstr. 19 48301 Nottuln <br/>
           Telefon: +49 2509 8778 <br/>
           Fax: +49 2509 993325 <br/>
-          E-Mail: <a href="mailto:info@svarminiaappelhuelsen.de">info@svarminiaappelhuelsen.de</a> 
+          E-Mail: <a href="mailto:info@svarminiaappelhuelsen.de">info@svarminiaappelhuelsen.de</a> <br />
+          <br />
+          Die Ansprechpartner für einzelne Sportarten finde sie <Link href="/sport" passHref><chakra.a color="#FE1919" classname="svalink">hier.</chakra.a></Link> <br />
+          
+          <br />
+          <br />
+          Das Anmeldeformular für eine Mitgliedschaft finden sie <chakra.a color="#FE1919" classname="svalink" href="https://www.svarminiaappelhuelsen.de/app/download/5817965009/Anmeldung.pdf">hier</chakra.a> <br />
+          <br />
         </Text>
       </Box>
     </>
