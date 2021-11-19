@@ -68,7 +68,7 @@ const Home = () => {
           
           <br />
           <br />
-          Das Anmeldeformular für eine mitgliedschaft finden sie <chakra.a color="#FE1919" classname="svalink" href="https://www.svarminiaappelhuelsen.de/app/download/5817965009/Anmeldung.pdf">hier</chakra.a> <br />
+          Das Anmeldeformular für eine Mitgliedschaft finden sie <chakra.a color="#FE1919" classname="svalink" href="https://www.svarminiaappelhuelsen.de/app/download/5817965009/Anmeldung.pdf">hier</chakra.a> <br />
           <br />
         </Text>
       </Box>
