@@ -56,8 +56,48 @@ const Home = () => {
         py="30"
       >
         <Text>
+        <NextLink href="/sports/badminton">
+              <a>Badminton</a>
+            </NextLink>
+
         <NextLink href="/sports/fussball">
               <a>Fussball</a>
+            </NextLink>
+
+            <NextLink href="/sports/judo">
+              <a>Judo</a>
+            </NextLink>
+
+            <NextLink href="/sports/kung-fu">
+              <a>Kung Fu</a>
+            </NextLink>
+
+            <NextLink href="/sports/laufen">
+              <a>Laufen</a>
+            </NextLink>
+
+            <NextLink href="/sports/leichtathletik">
+              <a>Leichtathletik</a>
+            </NextLink>
+
+            <NextLink href="/sports/pickelball">
+              <a>Pickelball</a>
+            </NextLink>
+
+            <NextLink href="/sports/tennis">
+              <a>Tennis</a>
+            </NextLink>
+
+            <NextLink href="/sports/tischtennis">
+              <a>Tischtennis</a>
+            </NextLink>
+
+            <NextLink href="/sports/turnen">
+              <a>Turnen</a>
+            </NextLink>
+
+            <NextLink href="/sports/volleyball">
+              <a>volleyball</a>
             </NextLink>
         </Text>
       </Box>
