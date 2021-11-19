@@ -1,7 +1,6 @@
 import { Box, Button, Heading, Text, useColorModeValue } from "@chakra-ui/react"
 import { NextSeo } from "next-seo"
 import Link from "next/link"
-import styles from '../styles/home.module.css'
 
 import { seo, data } from "config"
 
@@ -65,10 +64,11 @@ const Home = () => {
           Fax: +49 2509 993325 <br/>
           E-Mail: <a href="mailto:info@svarminiaappelhuelsen.de">info@svarminiaappelhuelsen.de</a> <br />
           <br />
-          Die Ansprechpartner für einzelne Sportarten finde sie <Link href="/sport"><a classname="svalink" target="_blank">hier.</a></Link> <br />
+          Die Ansprechpartner für einzelne Sportarten finde sie <Link href="/sport"><chakra.a color="#FE1919" classname="svalink" target="_blank">hier.</chakra.a></Link> <br />
+          
           <br />
           <br />
-          Das <a classname="svalink" href="https://www.svarminiaappelhuelsen.de/app/download/5817965009/Anmeldung.pdf">Anmeldeformular</a> für eine mitgliedschaft finden sie hier. <br />
+          Das Anmeldeformular für eine mitgliedschaft finden sie <chakra.a color="#FE1919" classname="svalink" href="https://www.svarminiaappelhuelsen.de/app/download/5817965009/Anmeldung.pdf">hier</chakra.a> <br />
           <br />
         </Text>
       </Box>
