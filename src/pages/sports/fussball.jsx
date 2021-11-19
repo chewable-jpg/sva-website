@@ -38,7 +38,7 @@ const Home = () => {
       >
         <Box>
           <Heading as="h1" fontSize="5xl" fontWeight="500" py="20">
-            Fussball
+            
           </Heading>
         </Box>
       </Box>
