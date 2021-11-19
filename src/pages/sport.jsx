@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import { Box, Button, Heading, Text, useColorModeValue } from "@chakra-ui/react"
 import Image from 'next/image'
 import Link from 'next/link'
 import styles from '../styles/home.module.css'
