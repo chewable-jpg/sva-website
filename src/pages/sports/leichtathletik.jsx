@@ -95,17 +95,23 @@ const Home = () => {
           Ulrike Mersmann | Telefon: 02509 1376 <br />
           <br />
           <br />
-          <br/>
-          Die Leichtathletik Abteilung vermittelt Grundlagentraining für die leichtathletischen Disziplinen. <br/>
-          Zeilgruppe sind Mädchen und Jungen im Grunschulalter. <br/>
-          Während der Wintermonate finded das Training in der Halle statt und dient in erster Linie der konditionellen Kräftigung, <br/>
-          hergeleitet durch spielerische Übungsformen. <br/>
-          In den Sommerminaten werden die leichtathletischen Sportarten auf dem Sportplatz trainiert. <br/>
-          Ziel ist die Erlangung des Deutschen Sportabzeichens. <br/>
-          Auf Grund der aktuellen Corona Lage findet das Training nur eingeschränkt und an geltende Hygiene Betimmungen angepasst statt. <br/>
-          <br/>
-          Anmeldungen sind zu richten an Ulrike Mersmann. <br/>
-          Ansprechpartner für das DSA sind Dirk Randhan und Ulrike Mersmann. <br/>
+          <br />
+          Die Leichtathletik Abteilung vermittelt Grundlagentraining für die
+          leichtathletischen Disziplinen. <br />
+          Zeilgruppe sind Mädchen und Jungen im Grunschulalter. <br />
+          Während der Wintermonate finded das Training in der Halle statt und
+          dient in erster Linie der konditionellen Kräftigung, <br />
+          hergeleitet durch spielerische Übungsformen. <br />
+          In den Sommerminaten werden die leichtathletischen Sportarten auf dem
+          Sportplatz trainiert. <br />
+          Ziel ist die Erlangung des Deutschen Sportabzeichens. <br />
+          Auf Grund der aktuellen Corona Lage findet das Training nur
+          eingeschränkt und an geltende Hygiene Betimmungen angepasst statt.{" "}
+          <br />
+          <br />
+          Anmeldungen sind zu richten an Ulrike Mersmann. <br />
+          Ansprechpartner für das DSA sind Dirk Randhan und Ulrike Mersmann.{" "}
+          <br />
         </Text>
       </Box>
     </>
