@@ -56,7 +56,7 @@ const Home = () => {
           <br />
         </Text>
         <Text>
-          <br />
+              <br />
           Der SVA bietet Gymnastik online von Montag bis Freitag an: <br />
           <br />
           Montag: 18:00 - 19:00 Uhr "ganzheitliche Fitness" <br/>
@@ -80,10 +80,6 @@ const Home = () => {
           <br/>
           Turnen für Kinder im Vorschulalter (ab 4 Jahren bis zur Einschulung) <br/>
           <br/>
-
-
-
-
 
         </Text>
       </Box>
