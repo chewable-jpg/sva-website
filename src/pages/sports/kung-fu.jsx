@@ -55,7 +55,7 @@ const Home = () => {
         py="30"
       >
         <Text>
-            Kung Fu
+    M-Kung-Fu | Shaolin Kung Fu
         </Text>
       </Box>
     </>
