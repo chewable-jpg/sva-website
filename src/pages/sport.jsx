@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
 import styles from '../styles/home.module.css'
+import { Container, Col, Row, Form } from "react-bootstrap";
 
 import { NextSeo } from "next-seo"
 
@@ -28,72 +29,103 @@ export default function Home() {
 
 
         <div className={styles.grid}>
-        <Link href="/sports/badminton">
+
+
+
+
+        </div>
+
+        <Container>
+  <Row>
+    <Col><Link href="/sports/badminton">
           <a className={styles.card}>
             <h2>Badminton &rarr;</h2>
           </a>
-        </Link>
+        </Link></Col>
 
-        <Link href="/sports/fussball">
+    <Col>        <Link href="/sports/fussball">
           <a className={styles.card}>
             <h2>Fussball &rarr;</h2>
           </a>
-        </Link>
+        </Link></Col>
 
-        <Link href="/sports/judo">
+    <Col>        <Link href="/sports/judo">
           <a className={styles.card}>
             <h2>Judo &rarr;</h2>
           </a>
-        </Link>
-
+        </Link></Col>
+        <Col>
         <Link href="/sports/kung-fu">
           <a className={styles.card}>
             <h2>Kung Fu &rarr;</h2>
           </a>
         </Link>
+        </Col>
+  </Row>
 
-        <Link href="/sports/laufen">
+  <Row>
+    <Col>
+    <Link href="/sports/laufen">
           <a className={styles.card}>
             <h2>Laufen &rarr;</h2>
           </a>
         </Link>
+    </Col>
 
-        <Link href="/sports/leichtathletik">
+    <Col>
+    <Link href="/sports/leichtathletik">
           <a className={styles.card}>
             <h2>Leichtathletik &rarr;</h2>
           </a>
         </Link>
+    </Col>
 
-        <Link href="/sports/pickelball">
+    <Col>
+    <Link href="/sports/pickelball">
           <a className={styles.card}>
             <h2>Pickelball &rarr;</h2>
           </a>
         </Link>
+    </Col>
 
-        <Link href="/sports/tennis">
+    <Col>
+    <Link href="/sports/tennis">
           <a className={styles.card}>
             <h2>Tennis &rarr;</h2>
           </a>
         </Link>
+    </Col>
+  </Row>
 
-        <Link href="/sports/tischtennis">
+  <Row>
+
+<Col>
+<Link href="/sports/tischtennis">
           <a className={styles.card}>
             <h2>Tischtennis &rarr;</h2>
           </a>
         </Link>
+</Col>
 
-        <Link href="/sports/turnen">
+<Col>
+<Link href="/sports/turnen">
           <a className={styles.card}>
             <h2>Turnen &rarr;</h2>
           </a>
         </Link>
+</Col>
 
-        <Link href="/sports/volleyball">
+<Col>
+<Link href="/sports/volleyball">
           <a className={styles.card}>
             <h2>Volleyball &rarr;</h2>
           </a>
         </Link>
-        </div>
+</Col>
+
+  </Row>
+
+</Container>
       </main>
     </div>
   )
