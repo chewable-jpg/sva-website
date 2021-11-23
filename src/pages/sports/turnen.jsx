@@ -1,12 +1,9 @@
-import { Box, Button, Heading, Text, useColorModeValue } from "@chakra-ui/react"
+import { Box, Heading, Text } from "@chakra-ui/react"
 import { NextSeo } from "next-seo"
 
-import { seo, data } from "config"
+import { seo } from "config"
 
 const Home = () => {
-  const color = useColorModeValue("telegram.500", "telegram.400")
-
-  const isOdd = (num) => num % 2
 
   const title = `Turnen | ${seo.title}`
   const description = seo.description
@@ -55,7 +52,35 @@ const Home = () => {
         py="30"
       >
         <Text>
-            Turnen
+          Leitung: Beate Haiber | Telefon: 02509 995248 <br />
+          <br />
+        </Text>
+        <Text>
+              <br />
+          Der SVA bietet Gymnastik online von Montag bis Freitag an: <br />
+          <br />
+          Montag: 18:00 - 19:00 Uhr "ganzheitliche Fitness" <br/>
+          Dienstag: 19:00 - 20:15 Uhr "Fit for Life" <br/>
+          Mittowch: 18:00 - 19:00 Uhr "Gymnastik" <br/>
+          Donnerstag: 19:30 - 20:30 Uhr "Rückenfit" <br/>
+          <br/>
+          <br/>
+
+          Eltern-Kind-Turnen für Eltern mit Kindern ab 1 Jahr und deren Kinder <br/>
+          (*Die Kinder sollten laufen können) <br/>
+          <br/>
+          Dienstag: 16:00 - 16:45 Uhr <br/>
+          Leitung: Martina Hensmann <br/>
+          <br/>
+          Donnerstag: 16:00 - 17:00 Uhr <br/>
+          Leitung: NN <br/>
+          <br/>
+          Ort: Turnhalle der Grundschule <br/>
+          <br/>
+          <br/>
+          Turnen für Kinder im Vorschulalter (ab 4 Jahren bis zur Einschulung) <br/>
+          <br/>
+
         </Text>
       </Box>
     </>

@@ -1,13 +1,9 @@
-import { Box, Button, Heading, Text, useColorModeValue } from "@chakra-ui/react"
+import { Box, Heading, Text } from "@chakra-ui/react"
 import { NextSeo } from "next-seo"
 
-import { seo, data } from "config"
+import { seo, } from "config"
 
 const Home = () => {
-  const color = useColorModeValue("telegram.500", "telegram.400")
-
-  const isOdd = (num) => num % 2
-
   const title = `Volleyball | ${seo.title}`
   const description = seo.description
 
