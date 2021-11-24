@@ -103,11 +103,12 @@ const Home = () => {
               />
             </Box>
 
+            <div className="mapouter"><div className="gmap_canvas"><iframe width={600} height={400} id="gmap_canvas" src="https://maps.google.com/maps?q=51.896013,%207.422888&t=k&z=15&ie=UTF8&iwloc=&output=embed" frameBorder={0} scrolling="no" marginHeight={0} marginWidth={0} /><br /><style dangerouslySetInnerHTML={{__html: ".mapouter{position:relative;text-align:right;height:400px;width:600px;}" }} /><a href="https://www.embedgooglemap.net">embedgooglemap.net</a><style dangerouslySetInnerHTML={{__html: ".gmap_canvas {overflow:hidden;background:none!important;height:400px;width:600px;}" }} /></div></div>
+
             <Box w={{ lg: "50%" }}>
               <Heading as="h1">{item.title}</Heading>
               <Text py="8">{item.description}</Text>
             </Box>
-            <div className="mapouter"><div className="gmap_canvas"><iframe width={1200} height={800} id="gmap_canvas" src="https://maps.google.com/maps?q=51.896013,%207.422888&t=k&z=15&ie=UTF8&iwloc=&output=embed" frameBorder={0} scrolling="no" marginHeight={0} marginWidth={0} /><br /><style dangerouslySetInnerHTML={{__html: ".mapouter{position:relative;text-align:right;height:800px;width:1200px;}" }} /><a href="https://www.embedgooglemap.net">embedgooglemap.net</a><style dangerouslySetInnerHTML={{__html: ".gmap_canvas {overflow:hidden;background:none!important;height:800px;width:1200px;}" }} /></div></div>
           </Box>
         ))}
       </Box>
