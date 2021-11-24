@@ -95,8 +95,8 @@ const Home = () => {
             >
                             <NextImage
                 src={item.image}
-                width="500"
-                height="500"
+                width="1200"
+                height="800"
                 alt={item.title}
                 placeholder="blur"
                 blurDataURL="L8LE.{~60000_3V@ITx^00t:V?-P"
