@@ -42,8 +42,8 @@ const Home = () => {
       >
         <NextImage
           src="/logo.svg"
-          width="350"
-          height="350"
+          width="200"
+          height="200"
           alt="logo"
           placeholder="blur"
           blurDataURL="L5I~of#i004mgjw]-4XA00?wL#xu"
