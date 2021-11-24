@@ -32,7 +32,7 @@ const Home = () => {
         }}
       />
 
-<Box
+      <Box
         as="section"
         d="flex"
         alignItems="center"
@@ -41,15 +41,15 @@ const Home = () => {
         py="4"
       >
         <NextImage
-          src="/logo.svg"
+          src="/bighead.svg"
           width="350"
           height="350"
-          alt="logo"
+          alt="avatar bigheads"
           placeholder="blur"
           blurDataURL="L5I~of#i004mgjw]-4XA00?wL#xu"
           priority
         />
-        <Box>
+        </Box>
 
       <Box
         as="section"
