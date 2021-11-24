@@ -23,7 +23,7 @@ const Home = () => {
           description,
           images: [
             {
-              url: ``,
+              url: `${seo.canonical}logo.svg`,
               width: "389px",
               height: "87px",
               alt: "Header image",
