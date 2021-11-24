@@ -86,12 +86,22 @@ const Home = () => {
             flexDir={{ lg: isOdd(index) == 1 && "row-reverse" }}
             key={index}
           >
+            
             <Box
               w={{ base: "80%", lg: "35%" }}
               mx={{ base: "auto", lg: "0" }}
               pl={{ lg: isOdd(index) == 1 && "10" }}
               pr={{ lg: isOdd(index) == 0 && "10" }}
-            ></Box>
+            >
+                            <NextImage
+                src={item.image}
+                width="500"
+                height="500"
+                alt={item.title}
+                placeholder="blur"
+                blurDataURL="L8LE.{~60000_3V@ITx^00t:V?-P"
+              />
+            </Box>
 
             <Box w={{ lg: "50%" }}>
               <Heading as="h1">{item.title}</Heading>
