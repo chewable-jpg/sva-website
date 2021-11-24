@@ -23,7 +23,7 @@ const Home = () => {
           description,
           images: [
             {
-              url: `${seo.canonical}logo.svg`,
+              url: `https://sva.vercel.app/logo.svg`,
               width: "389px",
               height: "87px",
               alt: "Header image",
