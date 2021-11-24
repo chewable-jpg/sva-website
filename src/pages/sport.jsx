@@ -59,7 +59,7 @@ const Home = () => {
         <NextLink href="/sports/badminton">
               <a>Badminton</a>
             </NextLink>
-
+ 
         <NextLink href="/sports/fussball">
               <a>Fussball</a>
             </NextLink>
