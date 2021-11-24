@@ -32,6 +32,25 @@ const Home = () => {
         }}
       />
 
+<Box
+        as="section"
+        d="flex"
+        alignItems="center"
+        flexDir="column"
+        textAlign="center"
+        py="4"
+      >
+        <NextImage
+          src="/logo.svg"
+          width="350"
+          height="350"
+          alt="logo"
+          placeholder="blur"
+          blurDataURL="L5I~of#i004mgjw]-4XA00?wL#xu"
+          priority
+        />
+        <Box>
+
       <Box
         as="section"
         d="flex"
