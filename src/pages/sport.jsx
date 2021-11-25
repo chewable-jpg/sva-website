@@ -56,7 +56,7 @@ const Home = () => {
         py="30"
       >
         <Text
-        fontSize="45px"
+        fontSize="32"
         >
         <NextLink href="/sports/badminton">
               <a>Badminton</a>
