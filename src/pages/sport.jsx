@@ -55,47 +55,49 @@ const Home = () => {
         textAlign={{ base: "center", lg: "left" }}
         py="30"
       >
-        <Text>
+        <Text
+        fontSize="32"
+        >
         <NextLink href="/sports/badminton">
               <a>Badminton</a>
             </NextLink>
-
+<br />
         <NextLink href="/sports/fussball">
               <a>Fussball</a>
             </NextLink>
-
+<br />
             <NextLink href="/sports/judo">
               <a>Judo</a>
             </NextLink>
-
+<br />
             <NextLink href="/sports/kung-fu">
               <a>Kung Fu</a>
             </NextLink>
-
+<br />
             <NextLink href="/sports/laufen">
               <a>Laufen</a>
             </NextLink>
-
+<br />
             <NextLink href="/sports/leichtathletik">
               <a>Leichtathletik</a>
             </NextLink>
-
+<br />
             <NextLink href="/sports/pickelball">
               <a>Pickelball</a>
             </NextLink>
-
+<br />
             <NextLink href="/sports/tennis">
               <a>Tennis</a>
             </NextLink>
-
+<br />
             <NextLink href="/sports/tischtennis">
               <a>Tischtennis</a>
             </NextLink>
-
+<br />
             <NextLink href="/sports/turnen">
               <a>Turnen</a>
             </NextLink>
-
+<br />
             <NextLink href="/sports/volleyball">
               <a>volleyball</a>
             </NextLink>
