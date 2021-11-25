@@ -34,7 +34,6 @@ const Home = () => {
       <Box
         as="section"
         d="flex"
-        w="400px"
         alignItems="center"
         flexDir="column"
         textAlign="center"
@@ -52,8 +51,8 @@ const Home = () => {
         d="flex"
         alignItems="center"
         flexDir="column"
-        textAlign={{ base: "center", lg: "left" }}
-        py="5"
+        textAlign={{ base: "center", lg: "center" }}
+        py="1"
       >
         <Text>
         Liebe Arminen, <br /> 
