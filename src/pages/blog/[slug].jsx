@@ -102,7 +102,7 @@ const BlogPost = ({ mdxSource, frontMatter }) => {
         <Box 
         alignItems="center"
         flexDir="column"
-        textAlign={{ base: "center", lg: "left" }}
+        textAlign={{ base: "center", lg: "center" }}
         >
         <ChakraLink>
           <a href="/blog">Zurück zum Blog</a>
