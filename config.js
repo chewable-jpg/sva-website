@@ -27,7 +27,7 @@ export const data = [
     title: "Wo kann man uns finden",
     description:
       "Appelhülsen ist ein Ortsteil der Gemeinde Nottuln. Sie finden uns im Münsterland an der BAB 43 Münster-Wuppertal Ausfahrt Nottuln.",
-      image: "/tt.jpg"
+      image: "/SVA4.png"
   },
 ]
 
