@@ -115,7 +115,6 @@ const Home = () => {
       <Box
         alignItems={{ lg: "center"}}
         justifyContent={{ lg: "center"}}
-        key={index}
 
       >
       <iframe
