@@ -55,7 +55,9 @@ const Home = () => {
         textAlign={{ base: "center", lg: "left" }}
         py="30"
       >
-        <Text>
+        <Text
+        fontSize="45px"
+        >
         <NextLink href="/sports/badminton">
               <a>Badminton</a>
             </NextLink>
