@@ -99,6 +99,9 @@ const BlogPost = ({ mdxSource, frontMatter }) => {
             <Text fontWeight="500" py="6"></Text>
           </Box>
         </Box>
+        <ChakraLink>
+          <a href="/blog">Back to Blog</a>
+        </ChakraLink>
       </MDXProvider>
     </>
   )
