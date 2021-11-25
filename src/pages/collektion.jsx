@@ -34,6 +34,7 @@ const Home = () => {
       <Box
         as="section"
         d="flex"
+        w="400px"
         alignItems="center"
         flexDir="column"
         textAlign="center"
