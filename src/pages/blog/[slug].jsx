@@ -67,8 +67,8 @@ const BlogPost = ({ mdxSource, frontMatter }) => {
             <Flex direction="column">
               <Text fontSize="16px" color={color} py="1">
                 {frontMatter.author} /{" "}
-                {dayjs(frontMatter.publishedAt).format("MMMM DD, YYYY")} /{" "}
-                {frontMatter.readingTime.text}
+                {dayjs(frontMatter.publishedAt).format("DD MMMM, YYYY")} /{" "}
+                {/* {frontMatter.readingTime.text} */}
               </Text>
               <Text py="1">
                 {frontMatter.tags.map((tag) => {
@@ -99,9 +99,11 @@ const BlogPost = ({ mdxSource, frontMatter }) => {
             <Text fontWeight="500" py="6"></Text>
           </Box>
         </Box>
+        <Box alignItems="center">
         <ChakraLink>
-          <a href="/blog">Back to Blog</a>
+          <a href="/blog">Zurück zum Blog</a>
         </ChakraLink>
+        </Box>
       </MDXProvider>
     </>
   )
