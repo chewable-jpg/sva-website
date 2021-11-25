@@ -66,9 +66,9 @@ const BlogPost = ({ mdxSource, frontMatter }) => {
 
             <Flex direction="column">
               <Text fontSize="16px" color={color} py="1">
-                {frontMatter.author} /{" "}
+                {/* {frontMatter.author} /{" "}
                 {dayjs(frontMatter.publishedAt).format("DD MMMM, YYYY")} /{" "}
-                {frontMatter.readingTime.text}
+                {frontMatter.readingTime.text} */}
               </Text>
               <Text py="1">
                 {frontMatter.tags.map((tag) => {
