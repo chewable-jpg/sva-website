@@ -1,4 +1,4 @@
-import { Box, Button, Heading, Text, useColorModeValue } from "@chakra-ui/react"
+import { Box, Heading, Text, useColorModeValue } from "@chakra-ui/react"
 import { NextSeo } from "next-seo"
 import NextImage from "next/image"
 
@@ -93,7 +93,7 @@ const Home = () => {
               pl={{ lg: isOdd(index) == 1 && "10" }}
               pr={{ lg: isOdd(index) == 0 && "10" }}
             >
-                            <NextImage
+              <NextImage
                 src={item.image}
                 width="1200"
                 height="800"
@@ -103,6 +103,7 @@ const Home = () => {
               />
             </Box>
 
+
             <Box w={{ lg: "50%" }}>
               <Heading as="h1">{item.title}</Heading>
               <Text py="8">{item.description}</Text>
@@ -110,6 +111,16 @@ const Home = () => {
           </Box>
         ))}
       </Box>
+      <iframe
+              src="https://maps.google.com/maps?q=51.896013,%207.422888&t=k&z=15&ie=UTF8&iwloc=&output=embed"
+              width="600"
+              height="450"
+              frameBorder="0"
+              style={{ border: 0 }}
+              allowFullScreen=""
+              aria-hidden="false"
+              tabIndex="0"
+            />
     </>
   )
 }
