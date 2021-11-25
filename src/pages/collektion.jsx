@@ -47,14 +47,14 @@ const Home = () => {
       </Box>
 
       <Box
-        as="section"
+        as="articel"
         d="flex"
         alignItems="center"
         flexDir="column"
         textAlign={{ base: "center", lg: "left" }}
         py="1"
       >
-        <Text>
+        <Text py="1">
         Liebe Arminen, <br /> 
         <br />
 
