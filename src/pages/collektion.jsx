@@ -52,7 +52,7 @@ const Home = () => {
         alignItems="center"
         flexDir="column"
         textAlign={{ base: "center", lg: "left" }}
-        py="18"
+        py="5"
       >
         <Text>
         Liebe Arminen, <br /> 
