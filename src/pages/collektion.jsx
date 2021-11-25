@@ -50,10 +50,10 @@ const Home = () => {
         as="section"
         d="flex"
         alignItems="center"
-        // flexDir="column"
-        textAlign={{ base: "center", lg: "center" }}
+        flexDir="column"
+        textAlign={{ base: "center", lg: "left" }}
         py="1"
-        // w="10px"
+        w="100px"
       >
         <Text>
         Liebe Arminen, <br /> 
