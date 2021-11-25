@@ -111,23 +111,6 @@ const Home = () => {
           </Box>
         ))}
       </Box>
-
-      <Box
-        alignItems={{ lg: "center"}}
-        justifyContent={{ lg: "center"}}
-
-      >
-      <iframe
-              src="https://maps.google.com/maps?q=51.896013,%207.422888&t=k&z=15&ie=UTF8&iwloc=&output=embed"
-              width="600"
-              height="450"
-              frameBorder="0"
-              style={{ border: 0 }}
-              allowFullScreen=""
-              aria-hidden="false"
-              tabIndex="0"
-            />
-      </Box>
     </>
   )
 }
