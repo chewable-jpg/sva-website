@@ -1,6 +1,6 @@
 # SVA Website
 
-![logo](./public/logo.svg)
+<img src="./public/logo.svg" alt="logo" width="200"/>
 
 
 
@@ -12,18 +12,6 @@
 
 ## Project structure
 
-```
-$PROJECT_ROOT
-├── src
-│   # Page files
-├── pages
-│   # React component files
-├── components
-│   # Non-react modules
-├── lib
-│   # Static files for images
-└── public
-```
 
 ```
 $PROJECT_ROOT
@@ -35,8 +23,8 @@ $PROJECT_ROOT
 	    ├── blog # Blog posts
     ├── layouts # Basic layout
     ├── lib # Non-react modules
-	├── styles # Stylesheets
-	├── theme # Basic light and dark theme
+    ├── styles # Stylesheets
+    ├── theme # Basic light and dark theme
 
 ```
 
@@ -53,5 +41,4 @@ npm install
 
 npm run dev
 ```
-
 ---
