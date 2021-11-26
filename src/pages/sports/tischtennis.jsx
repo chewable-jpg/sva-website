@@ -1,5 +1,6 @@
 import { Box, Button, Heading, Text, useColorModeValue } from "@chakra-ui/react"
 import { NextSeo } from "next-seo"
+import { Link as ChakraLink } from "@chakra-ui/react"
 
 import { seo, data } from "config"
 
@@ -86,10 +87,19 @@ const Home = () => {
           Meisterschaftsspiele: Samstags ab 15:00 Uhr und Sonntag 09:30 - 13:00 Uhr <br />
           Nur in den Wintermonaten (von Septermber - März) <br />
           <br />
-
-          Für weiter Spiele Infos besuchen sie: <a target="_blank" href="https://wttv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/home">https://wttv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/home</a>
+          
         </Text>
       </Box>
+      <Box 
+        alignItems="center"
+        flexDir="column"
+        textAlign={{ base: "center", lg: "center" }}
+        fontSize="30px"
+        >
+        <ChakraLink>
+          <a href="/sport">Zurück zum allen Sportarten</a>
+        </ChakraLink>
+        </Box>
     </>
   )
 }

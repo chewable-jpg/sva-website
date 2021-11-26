@@ -1,5 +1,6 @@
 import { Box, Heading, Text } from "@chakra-ui/react"
 import { NextSeo } from "next-seo"
+import { Link as ChakraLink } from "@chakra-ui/react"
 
 import { seo, } from "config"
 
@@ -92,6 +93,16 @@ const Home = () => {
           Leitung: Maren Stebel | Telefon: 0173 7241719
         </Text>
       </Box>
+      <Box 
+        alignItems="center"
+        flexDir="column"
+        textAlign={{ base: "center", lg: "center" }}
+        fontSize="30px"
+        >
+        <ChakraLink>
+          <a href="/sport">Zurück zum allen Sportarten</a>
+        </ChakraLink>
+        </Box>
     </>
   )
 }

@@ -1,5 +1,6 @@
 import { Box, Button, Heading, Text, useColorModeValue } from "@chakra-ui/react"
 import { NextSeo } from "next-seo"
+import { Link as ChakraLink } from "@chakra-ui/react"
 
 import { seo, data } from "config"
 
@@ -74,6 +75,16 @@ const Home = () => {
           Neugikeiten werden sie in unseren Blog posts finden.
         </Text>
       </Box>
+      <Box 
+        alignItems="center"
+        flexDir="column"
+        textAlign={{ base: "center", lg: "center" }}
+        fontSize="30px"
+        >
+        <ChakraLink>
+          <a href="/sport">Zurück zum allen Sportarten</a>
+        </ChakraLink>
+        </Box>
     </>
   )
 }

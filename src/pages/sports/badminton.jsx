@@ -1,5 +1,6 @@
 import { Box, Button, Heading, Text, useColorModeValue } from "@chakra-ui/react"
 import { NextSeo } from "next-seo"
+import { Link as ChakraLink } from "@chakra-ui/react"
 
 import { seo, data } from "config"
 
@@ -69,6 +70,16 @@ Bewegung, Fitness und Spaß stehen hier im Vordergrund. Neue Spieler sind jederz
 <br />
 Freitags von 19:30 Uhr bis 21.00 Uhr (große Sporthalle).</Text>
       </Box>
+      <Box 
+        alignItems="center"
+        flexDir="column"
+        textAlign={{ base: "center", lg: "center" }}
+        fontSize="30px"
+        >
+        <ChakraLink>
+          <a href="/sport">Zurück zum allen Sportarten</a>
+        </ChakraLink>
+        </Box>
     </>
   )
 }
