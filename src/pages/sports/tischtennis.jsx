@@ -90,6 +90,16 @@ const Home = () => {
           Für weiter Spiele Infos besuchen sie: <a target="_blank" href="https://wttv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/home">https://wttv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/home</a>
         </Text>
       </Box>
+      <Box 
+        alignItems="center"
+        flexDir="column"
+        textAlign={{ base: "center", lg: "center" }}
+        fontSize="30px"
+        >
+        <ChakraLink>
+          <a href="/sport">Zurück zum allen Sportarten</a>
+        </ChakraLink>
+        </Box>
     </>
   )
 }

@@ -114,6 +114,16 @@ const Home = () => {
           <br />
         </Text>
       </Box>
+      <Box 
+        alignItems="center"
+        flexDir="column"
+        textAlign={{ base: "center", lg: "center" }}
+        fontSize="30px"
+        >
+        <ChakraLink>
+          <a href="/sport">Zurück zum allen Sportarten</a>
+        </ChakraLink>
+        </Box>
     </>
   )
 }
