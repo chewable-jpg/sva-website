@@ -1,7 +1,4 @@
-# SVA Website
-
 <img src="./public/logo.svg" alt="logo" width="200"/>
-
 
 
 ## Stack
