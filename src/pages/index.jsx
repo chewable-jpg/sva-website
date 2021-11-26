@@ -1,4 +1,4 @@
-import { Box, Heading, Text, useColorModeValue } from "@chakra-ui/react"
+import { Box, Button, Heading, Text, useColorModeValue } from "@chakra-ui/react"
 import { NextSeo } from "next-seo"
 import NextImage from "next/image"
 
@@ -26,7 +26,7 @@ const Home = () => {
               url: `https://sva.vercel.app/logo.svg`,
               width: "389px",
               height: "87px",
-              alt: "Header image",
+              alt: "logo",
             },
           ],
         }}
@@ -69,23 +69,12 @@ const Home = () => {
             flexDir={{ lg: isOdd(index) == 1 && "row-reverse" }}
             key={index}
           >
-            
             <Box
               w={{ base: "80%", lg: "35%" }}
               mx={{ base: "auto", lg: "0" }}
               pl={{ lg: isOdd(index) == 1 && "10" }}
               pr={{ lg: isOdd(index) == 0 && "10" }}
-            >
-              <NextImage
-                src={item.image}
-                width="1200"
-                height="800"
-                alt={item.title}
-                placeholder="blur"
-                blurDataURL="L8LE.{~60000_3V@ITx^00t:V?-P"
-              />
-            </Box>
-
+            ></Box>
 
             <Box w={{ lg: "50%" }}>
               <Heading as="h1">{item.title}</Heading>
