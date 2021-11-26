@@ -1,4 +1,4 @@
-import { Box, Button, Heading, Text, useColorModeValue } from "@chakra-ui/react"
+import { Box, Heading, Text, useColorModeValue } from "@chakra-ui/react"
 import { NextSeo } from "next-seo"
 import NextImage from "next/image"
 
@@ -26,13 +26,29 @@ const Home = () => {
               url: `https://sva.vercel.app/logo.svg`,
               width: "389px",
               height: "87px",
-              alt: "logo",
+              alt: "Header image",
             },
           ],
         }}
       />
 
-
+      <Box
+        as="section"
+        d="flex"
+        alignItems="center"
+        flexDir="column"
+        textAlign="center"
+        py="4"
+      >
+        <NextImage
+          src="/logo.svg"
+          width="200"
+          height="200"
+          alt="logo"
+          placeholder="blur"
+          priority
+        />
+        </Box>
 
       <Box
         as="section"
@@ -69,12 +85,22 @@ const Home = () => {
             flexDir={{ lg: isOdd(index) == 1 && "row-reverse" }}
             key={index}
           >
+            
             <Box
               w={{ base: "80%", lg: "35%" }}
               mx={{ base: "auto", lg: "0" }}
               pl={{ lg: isOdd(index) == 1 && "10" }}
               pr={{ lg: isOdd(index) == 0 && "10" }}
-            ></Box>
+            >
+              <NextImage
+                src={item.image}
+                width="1200"
+                height="800"
+                alt={item.title}
+                placeholder="blur"
+              />
+            </Box>
+
 
             <Box w={{ lg: "50%" }}>
               <Heading as="h1">{item.title}</Heading>
