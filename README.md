@@ -16,8 +16,8 @@ $PROJECT_ROOT
 └── src
     ├── pages #Page files
     ├── components # React component files
-	├── data
-	    ├── blog # Blog posts
+	└── data
+	    └── blog # Blog posts
     ├── layouts # Basic layout
     ├── lib # Non-react modules
     ├── styles # Stylesheets
