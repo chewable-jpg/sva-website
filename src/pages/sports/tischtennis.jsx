@@ -87,8 +87,7 @@ const Home = () => {
           Meisterschaftsspiele: Samstags ab 15:00 Uhr und Sonntag 09:30 - 13:00 Uhr <br />
           Nur in den Wintermonaten (von Septermber - März) <br />
           <br />
-
-          Für weiter Spiele Infos besuchen sie: <a target="_blank" href="https://wttv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/home">https://wttv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/home</a>
+          
         </Text>
       </Box>
       <Box 
