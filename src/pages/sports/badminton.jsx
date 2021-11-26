@@ -1,5 +1,6 @@
 import { Box, Button, Heading, Text, useColorModeValue } from "@chakra-ui/react"
 import { NextSeo } from "next-seo"
+import { Link as ChakraLink } from "@chakra-ui/react"
 
 import { seo, data } from "config"
 
@@ -75,7 +76,7 @@ Freitags von 19:30 Uhr bis 21.00 Uhr (große Sporthalle).</Text>
         textAlign={{ base: "center", lg: "center" }}
         >
         <ChakraLink>
-          <a href="/blog">Zurück zum Blog</a>
+          <a href="/blog">Zurück zum allen Sportarten</a>
         </ChakraLink>
         </Box>
     </>
