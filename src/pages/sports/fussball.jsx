@@ -1,5 +1,6 @@
 import { Box, Heading, Text } from "@chakra-ui/react"
 import { NextSeo } from "next-seo"
+import { Link as ChakraLink } from "@chakra-ui/react"
 
 import { seo } from "config"
 
