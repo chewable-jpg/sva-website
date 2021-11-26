@@ -41,7 +41,7 @@ const Home = () => {
       >
         <Box>
           <Heading as="h1" fontSize="5xl" fontWeight="500" py="20">
-            Vereinskollektion
+            Kollektion
           </Heading>
         </Box>
       </Box>
