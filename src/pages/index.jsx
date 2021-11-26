@@ -98,7 +98,6 @@ const Home = () => {
                 height="800"
                 alt={item.title}
                 placeholder="blur"
-                blurDataURL="L8LE.{~60000_3V@ITx^00t:V?-P"
               />
             </Box>
 
