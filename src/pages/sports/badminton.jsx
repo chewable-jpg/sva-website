@@ -69,6 +69,15 @@ Bewegung, Fitness und Spaß stehen hier im Vordergrund. Neue Spieler sind jederz
 <br />
 Freitags von 19:30 Uhr bis 21.00 Uhr (große Sporthalle).</Text>
       </Box>
+      <Box 
+        alignItems="center"
+        flexDir="column"
+        textAlign={{ base: "center", lg: "center" }}
+        >
+        <ChakraLink>
+          <a href="/blog">Zurück zum Blog</a>
+        </ChakraLink>
+        </Box>
     </>
   )
 }
