@@ -74,9 +74,10 @@ Freitags von 19:30 Uhr bis 21.00 Uhr (große Sporthalle).</Text>
         alignItems="center"
         flexDir="column"
         textAlign={{ base: "center", lg: "center" }}
+        fontSize="30px"
         >
         <ChakraLink>
-          <a fontSize="30px" href="/sport">Zurück zum allen Sportarten</a>
+          <a href="/sport">Zurück zum allen Sportarten</a>
         </ChakraLink>
         </Box>
     </>
