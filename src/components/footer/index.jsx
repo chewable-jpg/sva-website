@@ -19,10 +19,12 @@ const Footer = () => (
       >
         <Box py="10"></Box>
         <Box py="2">
+          {/* <NextLink href="/contact">
             <Text>
               Öffnungszeiten: Dienstag: 17:00 - 18:00 Uhr | Mittwoch: 17:00 -
               18:00 Uhr
             </Text>
+          </NextLink> */}
         </Box>
       </Box>
     </Box>
