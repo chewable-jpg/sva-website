@@ -79,7 +79,7 @@ const Home = () => {
           Freitag: 16:20 - 17:50 Uhr in der Turnhalle (12 bis 17 Jahre) <br />
           <br />
           <br />
-          Leitung jeweils (teilw. o. abw.): <br />
+          Leitung jeweils (teilweise oder abwechselnd): <br />
           Mecki Riegelmeyer <br />
           Andread Schabert <br />
           <br />
